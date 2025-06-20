@@ -1,0 +1,165 @@
+// MARK: - General
+"app_name" = "Currency Converter";
+"ok" = "OK";
+"cancel" = "Cancel";
+"done" = "Done";
+"save" = "Save";
+"delete" = "Delete";
+"edit" = "Edit";
+"add" = "Add";
+"remove" = "Remove";
+"close" = "Close";
+"back" = "Back";
+"next" = "Next";
+"previous" = "Previous";
+"search" = "Search";
+"filter" = "Filter";
+"sort" = "Sort";
+"clear" = "Clear";
+"reset" = "Reset";
+"refresh" = "Refresh";
+"loading" = "Loading...";
+"error" = "Error";
+"warning" = "Warning";
+"info" = "Info";
+"success" = "Success";
+"retry" = "Retry";
+"share" = "Share";
+"export" = "Export";
+"import" = "Import";
+"settings" = "Settings";
+"about" = "About";
+"help" = "Help";
+"contact" = "Contact";
+"version" = "Version";
+
+// MARK: - Currency Names
+"currency_rub" = "Russian Ruble";
+"currency_usd" = "US Dollar";
+"currency_eur" = "Euro";
+"currency_gbp" = "British Pound";
+"currency_chf" = "Swiss Franc";
+"currency_cny" = "Chinese Yuan";
+
+// MARK: - Currency Regions
+"region_north_america" = "North America";
+"region_south_america" = "South America";
+"region_europe" = "Europe";
+"region_asia" = "Asia";
+"region_africa" = "Africa";
+"region_oceania" = "Oceania";
+"region_middle_east" = "Middle East";
+
+// MARK: - Main Screen
+"main_title" = "Currency Converter";
+"from_currency" = "From";
+"to_currency" = "To";
+"amount_placeholder" = "Enter amount";
+"convert_button" = "Convert";
+"swap_currencies" = "Swap currencies";
+"rate_label" = "Exchange Rate";
+"last_updated" = "Last updated";
+"conversion_result" = "Conversion Result";
+"add_to_favorites" = "Add to Favorites";
+"remove_from_favorites" = "Remove from Favorites";
+"view_history" = "View History";
+"quick_amounts" = "Quick Amounts";
+
+// MARK: - History Screen
+"history_title" = "Conversion History";
+"history_empty" = "No conversion history yet";
+"history_empty_description" = "Your currency conversions will appear here";
+"clear_history" = "Clear History";
+"clear_history_confirmation" = "Are you sure you want to clear all conversion history?";
+"filter_history" = "Filter History";
+"sort_history" = "Sort History";
+"search_history" = "Search history...";
+"export_history" = "Export History";
+"import_history" = "Import History";
+"history_item_note" = "Note";
+"history_item_tags" = "Tags";
+"history_item_favorite" = "Favorite";
+"history_statistics" = "Statistics";
+
+// MARK: - History Filters
+"filter_all" = "All";
+"filter_today" = "Today";
+"filter_this_week" = "This Week";
+"filter_this_month" = "This Month";
+"filter_custom_range" = "Custom Range";
+"filter_from_currency" = "From Currency";
+"filter_to_currency" = "To Currency";
+"filter_min_amount" = "Min Amount";
+"filter_max_amount" = "Max Amount";
+"filter_favorites_only" = "Favorites Only";
+"filter_tags" = "Tags";
+"filter_apply" = "Apply Filter";
+"filter_clear" = "Clear Filter";
+
+// MARK: - History Sort Options
+"sort_date_newest" = "Date (Newest)";
+"sort_date_oldest" = "Date (Oldest)";
+"sort_amount_highest" = "Amount (Highest)";
+"sort_amount_lowest" = "Amount (Lowest)";
+"sort_currency_pair" = "Currency Pair";
+
+// MARK: - Settings Screen
+"settings_title" = "Settings";
+"settings_general" = "General";
+"settings_appearance" = "Appearance";
+"settings_currencies" = "Currencies";
+"settings_notifications" = "Notifications";
+"settings_data" = "Data & Privacy";
+"settings_about" = "About";
+
+// MARK: - General Settings
+"default_from_currency" = "Default From Currency";
+"default_to_currency" = "Default To Currency";
+"default_amount" = "Default Amount";
+"auto_refresh_rates" = "Auto Refresh Rates";
+"refresh_interval" = "Refresh Interval";
+"haptic_feedback" = "Haptic Feedback";
+"sound_effects" = "Sound Effects";
+
+// MARK: - Appearance Settings
+"theme" = "Theme";
+"theme_system" = "System";
+"theme_light" = "Light";
+"theme_dark" = "Dark";
+"display_precision" = "Display Precision";
+"precision_auto" = "Auto";
+"precision_2_decimal" = "2 decimal places";
+"precision_4_decimal" = "4 decimal places";
+"precision_6_decimal" = "6 decimal places";
+"number_format" = "Number Format";
+"number_format_standard" = "Standard";
+"number_format_compact" = "Compact";
+"number_format_scientific" = "Scientific";
+"date_format" = "Date Format";
+"date_format_relative" = "Relative (2 hours ago)";
+"date_format_short" = "Short (12/31/23)";
+"date_format_medium" = "Medium (Dec 31, 2023)";
+"date_format_long" = "Long (December 31, 2023)";
+
+// MARK: - Currency Settings
+"favorite_currencies" = "Favorite Currencies";
+"recent_currencies" = "Recent Currencies";
+"popular_currencies" = "Popular Currencies";
+"all_currencies" = "All Currencies";
+"search_currencies" = "Search currencies...";
+
+// MARK: - Notification Settings
+"show_notifications" = "Show Notifications";
+"rate_alerts" = "Rate Alerts";
+"daily_updates" = "Daily Updates";
+"weekly_reports" = "Weekly Reports";
+"add_rate_alert" = "Add Rate Alert";
+"edit_rate_alert" = "Edit Rate Alert";
+"alert_currency_pair" = "Currency Pair";
+"alert_condition" = "Condition";
+"alert_target_rate" = "Target Rate";
+"alert_title" = "Alert Title";
+"alert_message" = "Alert Message";
+"condition_above" = "Above";
+"condition_below" = "Below";
+"condition_equals" = "Equals";
